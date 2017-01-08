@@ -6,8 +6,9 @@
  * This file is part of HOL-TestGen.
  *
  * Copyright (c) 2005-2012 ETH Zurich, Switzerland
- *               2008-2014 Achim D. Brucker, Germany
- *               2009-2014 Université Paris-Sud, France
+ *               2008-2015 Achim D. Brucker, Germany
+ *               2009-2017 Université Paris-Sud, France
+ *               2015-2017 The University of Sheffield, UK
  *
  * All rights reserved.
  *
@@ -44,10 +45,10 @@
 section {* Putting Everything Together: UPF *}
 theory 
   UPF
-imports 
-  Normalisation
-  NormalisationTestSpecification
-  Analysis
+  imports 
+    Normalisation
+    NormalisationTestSpecification
+    Analysis
 begin
 
 text{*
