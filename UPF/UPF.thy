@@ -40,7 +40,6 @@
  * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  ******************************************************************************)
-(* $Id: UPF.thy 10879 2014-10-26 11:35:31Z brucker $ *)
 
 section {* Putting Everything Together: UPF *}
 theory 
