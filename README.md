@@ -15,3 +15,9 @@ submitted (as an update of the UPF entry) at a later stage.
 
 ## License
 This project is licensed under a 3-clause BSD-style license.
+
+## Publications
+* Achim D. Brucker, Lukas Brügger, and Burkhart Wolff. The Unified
+  Policy Framework (UPF). In Archive of Formal
+  Proofs, 2014. http://www.isa-afp.org/entries/UPF.shtml, Formal proof
+  development

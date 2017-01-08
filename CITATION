@@ -1,0 +1,37 @@
+To cite the use of this formal theory, please use
+
+  Achim D. Brucker, Lukas Brügger, and Burkhart Wolff. The Unified
+  Policy Framework (UPF). In Archive of Formal
+  Proofs, 2014. http://www.isa-afp.org/entries/UPF.shtml, Formal proof
+  development
+
+A BibTeX entry for LaTeX users is
+@Article{ brucker.ea:upf:2014,
+       abstract = {We present the Unified Policy Framework (UPF), a
+                   generic framework for modelling security
+                   (access-control) policies. UPF emphasizes the view
+                   that a policy is a policy decision function that
+                   grants or denies access to resources, permissions,
+                   etc. In other words, instead of modelling the
+                   relations of permitted or prohibited requests
+                   directly, we model the concrete function that
+                   implements the policy decision point in a
+                   system. In more detail, UPF is based on the
+                   following four principles: 1) Functional
+                   representation of policies, 2) No conflicts are
+                   possible, 3) Three-valued decision type (allow,
+                   deny, undefined), 4) Output type not containing the
+                   decision only.},
+        author	= 	{Achim D. Brucker and Lukas Br{\"u}gger and Burkhart Wolff},
+	date	= 	{2014-11-28},
+	file	= 	{https://www.brucker.ch/bibliography/download/2014/brucker.ea-upf-outline-2014.pdf},
+	filelabel	= 	{Outline},
+	issn	= 	{2150-914x},
+	journal	= 	{Archive of Formal Proofs},
+	month	= 	{sep},
+	note	= 	{\url{http://www.isa-afp.org/entries/UPF.shtml}, Formal proof development},
+	pdf	= 	{https://www.brucker.ch/bibliography/download/2014/brucker.ea-upf-2014.pdf},
+	title	= 	{The Unified Policy Framework (UPF)},
+	url	= 	{https://www.brucker.ch/bibliography/abstract/brucker.ea-upf-2014},
+	year	= 	{2014},
+} 
