@@ -9,6 +9,12 @@ The official AFP releases are tagged. Additionally, this repository
 may contain extensions (i.e., a development version) that may be
 submitted (as an update of the UPF entry) at a later stage.
 
+## Installation
+
+```console
+achim@logicalhacking:~$ isabelle build -D UPF
+```
+
 ## Authors
 
 * [Achim D. Brucker](http://www.brucker.ch/)
