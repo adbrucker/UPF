@@ -19,5 +19,5 @@ pipeline:
       target: $CI_REPO_OWNER
       include: [ "**.*"]
       key: 
-        from_secret: artifacts_ssh_confidential
+        from_secret: artifacts_ssh
       user: artifacts
