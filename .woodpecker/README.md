@@ -9,6 +9,5 @@ It may also contain additional tools and script that are useful for preparing a 
 
 ### Latest Build
 
-* [document.pdf](https://artifacts.logicalhacking.com/ci-confidential/afp-mirror/UPF/main/latest/document.pdf)
 * [browser_info](https://artifacts.logicalhacking.com/ci-confidential/afp-mirror/UPF/main/latest/browser_info/Unsorted/UPF/)
 * [aux files](https://artifacts.logicalhacking.com/ci-confidential/afp-mirror/UPF/main/latest/)
