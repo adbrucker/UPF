@@ -4,7 +4,7 @@ pipeline:
     commands:
       - export ARTIFACT_DIR=$CI_WORKSPACE/.artifacts/$CI_REPO/$CI_BRANCH/$CI_BUILD_NUMBER/
       - mkdir -p $ARTIFACT_DIR
-      - isabelle build -D UPF -o browser_info
+      - isabelle build -D UPF -o browser_info  -o document=pdf
       - export `isabelle getenv ISABELLE_HOME_USER`
       - cp -r $ISABELLE_HOME_USER/browser_info $ARTIFACT_DIR
       - cd $ARTIFACT_DIR
